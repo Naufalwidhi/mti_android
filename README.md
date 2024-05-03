@@ -1,16 +1,13 @@
 # mora_technical_test
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Feature
+1. Login Page
+   - Input username &amp; password (DONE)
+   - Button (Submit / Login) (DONE)
+2. Dashboard
+   - Bottom Navigation Bar Item (DONE)
+   - List Data  (DONE)
+3. Profile Information
+   - Username inforrmation  (DONE)
+   - Foto Profile (availlable to Change or Edit by Camera)  (On Progress)
+   - Current Longitude-Latitude information  (DONE)
