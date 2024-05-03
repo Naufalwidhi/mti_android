@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797115135849",
+    "project_id": "moratel-tech-test",
+    "storage_bucket": "moratel-tech-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797115135849:android:4c01beb5116146d8292ff8",
+        "android_client_info": {
+          "package_name": "com.example.mora_technical_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgzH-R2_-f2oRenjYeGEWsY4Ngn7oI28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
